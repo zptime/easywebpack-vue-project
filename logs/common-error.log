@@ -1,9 +1,0 @@
-2020-12-16 11:33:10,696 ERROR 284192 nodejs.unhandledExceptionError: read ECONNRESET
-    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
-errno: -4077
-code: "ECONNRESET"
-syscall: "read"
-name: "unhandledExceptionError"
-pid: 284192
-hostname: DESKTOP-K4FSJI9
-
