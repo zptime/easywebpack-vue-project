@@ -16,3 +16,6 @@
 2020-12-16 11:33:08,393 INFO 286300 [egg-schedule]: register schedule E:\MyRemote\easywebpack-vue-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
 2020-12-16 11:33:08,393 INFO 286300 [egg-schedule]: register schedule E:\MyRemote\easywebpack-vue-project\node_modules\egg-logrotator\app\schedule\clean_log.js
 2020-12-16 11:33:08,393 INFO 286300 [egg-schedule]: register schedule E:\MyRemote\easywebpack-vue-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-16 11:33:11,455 INFO 285052 [egg-schedule]: register schedule E:\MyRemote\easywebpack-vue-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-16 11:33:11,455 INFO 285052 [egg-schedule]: register schedule E:\MyRemote\easywebpack-vue-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-16 11:33:11,455 INFO 285052 [egg-schedule]: register schedule E:\MyRemote\easywebpack-vue-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js

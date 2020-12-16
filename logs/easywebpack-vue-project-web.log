@@ -25,3 +25,4 @@
 2020-12-16 11:32:52,062 INFO 270544 [-/127.0.0.1/-/1ms POST /admin/api/article/list] [access] 127.0.0.1: - POST /admin/api/article/list HTTP/200 2684 http://127.0.0.1:7001/admin/article/list 0 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
 2020-12-16 11:32:59,996 INFO 285812 [egg-logview] mount log E:\MyRemote\easywebpack-vue-project\logs at http://127.0.0.1:7001/__logs
 2020-12-16 11:33:08,513 INFO 286300 [egg-logview] mount log E:\MyRemote\easywebpack-vue-project\logs at http://127.0.0.1:7001/__logs
+2020-12-16 11:33:11,567 INFO 285052 [egg-logview] mount log E:\MyRemote\easywebpack-vue-project\logs at http://127.0.0.1:7001/__logs
