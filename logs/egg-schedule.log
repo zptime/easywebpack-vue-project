@@ -1,0 +1,18 @@
+2020-12-16 11:27:41,660 INFO 282684 [Timer] E:\MyRemote\easywebpack-vue-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 61338342ms at 2020-12-17 04:30:00.002
+2020-12-16 11:27:41,661 INFO 282684 [Timer] E:\MyRemote\easywebpack-vue-project\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 45138340ms at 2020-12-17 00:00:00.001
+2020-12-16 11:27:41,661 INFO 282684 [Timer] E:\MyRemote\easywebpack-vue-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 45139339ms at 2020-12-17 00:00:01.000
+2020-12-16 11:27:41,126 INFO 282764 [egg-schedule]: register schedule E:\MyRemote\easywebpack-vue-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-16 11:27:41,126 INFO 282764 [egg-schedule]: register schedule E:\MyRemote\easywebpack-vue-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-16 11:27:41,126 INFO 282764 [egg-schedule]: register schedule E:\MyRemote\easywebpack-vue-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-16 11:29:37,760 INFO 270544 [egg-schedule]: register schedule E:\MyRemote\easywebpack-vue-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-16 11:29:37,760 INFO 270544 [egg-schedule]: register schedule E:\MyRemote\easywebpack-vue-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-16 11:29:37,760 INFO 270544 [egg-schedule]: register schedule E:\MyRemote\easywebpack-vue-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-16 11:29:38,000 INFO 284192 [Timer] E:\MyRemote\easywebpack-vue-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 61222002ms at 2020-12-17 04:30:00.002
+2020-12-16 11:29:38,001 INFO 284192 [Timer] E:\MyRemote\easywebpack-vue-project\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 45022000ms at 2020-12-17 00:00:00.001
+2020-12-16 11:29:38,001 INFO 284192 [Timer] E:\MyRemote\easywebpack-vue-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 45022999ms at 2020-12-17 00:00:01.000
+2020-12-16 11:32:59,874 INFO 285812 [egg-schedule]: register schedule E:\MyRemote\easywebpack-vue-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-16 11:32:59,874 INFO 285812 [egg-schedule]: register schedule E:\MyRemote\easywebpack-vue-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-16 11:32:59,874 INFO 285812 [egg-schedule]: register schedule E:\MyRemote\easywebpack-vue-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-16 11:33:08,393 INFO 286300 [egg-schedule]: register schedule E:\MyRemote\easywebpack-vue-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-16 11:33:08,393 INFO 286300 [egg-schedule]: register schedule E:\MyRemote\easywebpack-vue-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-16 11:33:08,393 INFO 286300 [egg-schedule]: register schedule E:\MyRemote\easywebpack-vue-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js

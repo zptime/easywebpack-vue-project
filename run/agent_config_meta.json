@@ -1,0 +1,358 @@
+{
+  "siteFile": {
+    "/favicon.ico": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.default.js"
+  },
+  "vuessr": {
+    "layout": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.default.js",
+    "renderOptions": {
+      "basedir": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.default.js",
+      "runInNewContext": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-view-vue-ssr\\config\\config.default.js"
+    },
+    "injectRes": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.default.js",
+    "doctype": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "manifest": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "injectHeadRegex": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "injectBodyRegex": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "injectCss": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-view-vue-ssr\\config\\config.local.js",
+    "injectJs": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "crossorigin": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "mergeLocals": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "fallbackToClient": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "viewEngine": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "cache": {
+      "max": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+      "maxAge": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-view-vue-ssr\\config\\config.default.js"
+    },
+    "afterRender": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-view-vue-ssr\\config\\config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.default.js",
+    "dir": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.default.js",
+    "encoding": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "env": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "level": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.default.js",
+    "dir": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.default.js",
+    "maxAge": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.local.js",
+    "dynamic": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "keys": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.default.js",
+  "middleware": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.default.js",
+  "security": {
+    "csrf": {
+      "ignoreJSON": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.default.js",
+      "cookieName": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.default.js",
+      "sessionName": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.default.js",
+      "headerName": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.default.js",
+      "enable": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js",
+      "type": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.default.js",
+      "value": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.local.js",
+    "protocolWhiteList": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js",
+    "hsts": {
+      "enable": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "view": {
+    "cache": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.local.js",
+    "root": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultExtension": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": {
+      ".js": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-view-vue-ssr\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.local.js",
+    "ignoreDirs": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.local.js",
+    "fastReady": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logview": {
+    "dir": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.local.js",
+    "prefix": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-logview\\config\\config.default.js",
+    "staticHost": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-logview\\config\\config.default.js"
+  },
+  "webpack": "E:\\MyRemote\\easywebpack-vue-project\\config\\config.local.js",
+  "session": {
+    "maxAge": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "cors": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg-cors\\config\\config.default.js",
+  "env": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+  "name": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "version": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "description": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "start": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "debug": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "clean": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "build": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "lint": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "fix": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "ii": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "changelog": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "axios": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "cross-env": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "egg": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "egg-logger": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "egg-validate": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-vue-ssr": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "element-ui": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "extend": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "font-awesome": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "lodash": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "lodash-id": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "lowdb": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "mockjs": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "moment": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "shortid": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "showdown": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "simplemde": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "vue": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "vue-hot-reload-api": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "vue-i18n": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "vue-material-input": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "vue-router": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "vuex": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "vuex-router-sync": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "@easy-team/easywebpack-cli": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "@easy-team/easywebpack-vue": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-component": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "egg-logview": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "egg-webpack": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "egg-webpack-vue": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "eslint-plugin-vue": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "ip": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "node-sass": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "sass-loader": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "url": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "license": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "homepage": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "webpack": {
+      "loaders": {
+        "scss": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js"
+      }
+    }
+  },
+  "baseDir": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "strict": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "depth": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "logging": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "port": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "E:\\MyRemote\\easywebpack-vue-project\\node_modules\\egg\\config\\config.default.js"
+}
