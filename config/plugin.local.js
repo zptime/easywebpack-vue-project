@@ -3,6 +3,7 @@ exports.cors = {
   package: 'egg-cors'
 };
 
+// egg-webpack配置
 exports.webpack = {
   enable: true,
   package: 'egg-webpack'

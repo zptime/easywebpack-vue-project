@@ -6,10 +6,20 @@ module.exports = app => {
 
   exports.siteFile = {
     '/favicon.ico': fs.readFileSync(path.join(app.baseDir, 'app/web/asset/images/favicon.ico'))
+    // '/favicon.ico': fs.readFileSync(path.join(app.baseDir, 'web/asset/images/favicon.ico'))
   };
 
   exports.vuessr = {
+    // layout: path.join(app.baseDir, 'app/view/layout.html'),
+    // manifest: path.join(app.baseDir, 'config/manifest.json'),
+    // injectCss: true,
+    // injectJs: true,
+    // fallbackToClient: true, // fallback to client rendering after server rendering failed
+    // afterRender: (html, ctx) => {
+    //   return html;
+    // },
     layout: path.join(app.baseDir, 'app/web/view/layout.html'),
+    // layout: path.join(app.baseDir, 'web/view/layout.html'),
     renderOptions: {
       basedir: path.join(app.baseDir, 'app/view')
     },
